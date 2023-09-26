@@ -5,7 +5,19 @@
     <link>https://nanjing-kug.github.io/</link>
     <description>Recent content on 南京 KUG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Feb 2023 19:42:48 +0800</lastBuildDate><atom:link href="https://nanjing-kug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 08:33:16 +0800</lastBuildDate><atom:link href="https://nanjing-kug.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何加入Kotlin用户组</title>
+      <link>https://nanjing-kug.github.io/posts/join-kugs/</link>
+      <pubDate>Tue, 26 Sep 2023 08:33:16 +0800</pubDate>
+      
+      <guid>https://nanjing-kug.github.io/posts/join-kugs/</guid>
+      <description>通过 Kotlin 开发者微信公众号 Kotlin 开发者是 Kotlin 官方的公众号，会定期发布国内 KUG 的最新信息，包括加入方式。
+2023 年 7 月国内 Kotlin User Group 信息整理
+直接添加负责人微信 可以添加负责人的微信，备注 KUG，他会拉你进群。
+南京 KUG 负责人微信：yorick_cn</description>
+    </item>
+    
     <item>
       <title>历史活动</title>
       <link>https://nanjing-kug.github.io/posts/events/</link>
